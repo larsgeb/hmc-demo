@@ -92,6 +92,7 @@ testpath=0.4.2=py_1001
 tk=8.6.9=hed695b0_1002
 toml=0.10.0=py_0
 tornado=6.0.3=py37h516909a_0
+tqdm=4.34.0=py_0
 traitlets=4.3.2=py37_1000
 wcwidth=0.1.7=py_1
 webencodings=0.5.1=py_1
